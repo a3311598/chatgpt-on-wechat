@@ -77,7 +77,7 @@ available_setting = {
     # wechaty的配置
     "wechaty_puppet_service_token": "",  # wechaty的token
     # wechatmp的配置
-    "wechatmp_token": "",  # 微信公众平台的Token
+    "wechatmp_token": "68_JbQNjTC_pAls-nlrkJw8rOp-OEinv-vtEvnhkkcgYKEV1xAN-DvVvx0k35jfJMrzfNDaHG-amij1ws1wNt01MDEPZ5N3Yr5UNURt321xtBC0lqvYCwA88Dz6CQQXQXdAHASLS",  # 微信公众平台的Token
     "wechatmp_port": 8080,  # 微信公众平台的端口,需要端口转发到80或443
     "wechatmp_app_id": "",  # 微信公众平台的appID
     "wechatmp_app_secret": "",  # 微信公众平台的appsecret
